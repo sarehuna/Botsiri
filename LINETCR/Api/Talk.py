@@ -24,6 +24,7 @@ class Talk:
   #LA = "DESKTOPMAC 10.10.2-YOSEMITE-x64    MAC 4.5.0"
   UA = "Line/7.14.0"
   LA = "DESKTOPMAC 10.10.2-YOSEMITE-x64    MAC 4.5.0"
+	
   authToken = None
   cert = None
 
